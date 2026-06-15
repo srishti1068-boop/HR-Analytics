@@ -140,4 +140,4 @@ The dashboard enables HR leaders to move beyond assumptions by providing:
 This HR Analytics Dashboard demonstrates how Business Intelligence and data visualization can transform HR operations by identifying attrition patterns, improving employee retention strategies, and supporting strategic workforce planning through actionable insights.
 
 
-Screenshot: Dasboard SS [https://github.com/srishti1068-boop/HR-Analytics/blob/main/HR%20Analytics%20Dashboard%20SS.png]
+Screenshot: (https://github.com/srishti1068-boop/HR-Analytics/blob/main/HR%20Analytics%20Dashboard%20SS.png)
